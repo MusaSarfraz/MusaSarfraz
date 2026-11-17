@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 24" width="1000" height="24" role="presentation">
-<defs><linearGradient id="d" x1="0" x2="1"><stop offset="0" stop-color="#3d4f70" stop-opacity="0"/><stop offset=".5" stop-color="#3d4f70"/><stop offset="1" stop-color="#3d4f70" stop-opacity="0"/></linearGradient></defs>
+<defs><linearGradient id="d" x1="0" x2="1"><stop offset="0" stop-color="#2f5b63" stop-opacity="0"/><stop offset=".5" stop-color="#2f5b63"/><stop offset="1" stop-color="#2f5b63" stop-opacity="0"/></linearGradient></defs>
 <rect x="100" y="11.5" width="800" height="1" fill="url(#d)"/>
-<path d="M500 5 L507 12 L500 19 L493 12 Z" fill="none" stroke="#3d4f70" stroke-width="1.1"/>
-<circle cx="500" cy="12" r="1.8" fill="#c4483d"/>
-<circle cx="478" cy="12" r="1.5" fill="#3d4f70"/><circle cx="522" cy="12" r="1.5" fill="#3d4f70"/>
+<path d="M500 5 L507 12 L500 19 L493 12 Z" fill="none" stroke="#2f5b63" stroke-width="1.1"/>
+<circle cx="500" cy="12" r="1.8" fill="#c8e64b"/>
+<circle cx="478" cy="12" r="1.5" fill="#2f5b63"/><circle cx="522" cy="12" r="1.5" fill="#2f5b63"/>
 </svg>
