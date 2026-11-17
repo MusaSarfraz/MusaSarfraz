@@ -1,6 +1,9 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Musa Sarfraz: I box, I write, I play, I draw" width="100%" />
+  <img src="assets/hero.gif" alt="A candlelit table: a boxing glove, an open sketchbook with a pencil, the book All This Grief, a laptop typing code, and piano keys" width="100%" />
 </p>
+
+<h1 align="center">Musa Sarfraz</h1>
+<p align="center"><i>I box. I write. I play. I draw. And I code.</i></p>
 
 <p align="center">
   I build AI backends with <b>FastAPI</b> and scrape the web for a living.<br/>
@@ -51,7 +54,7 @@
 - 🥊 **Boxing.** The heavy bag keeps my head clear.
 - ✍️ **Poetry and writing.** The words go into my book.
 - 🎹 **Piano.** I play at night.
-- ✏️ **Sketching.** Pencil, paper and slow lines. The pixel painting on the wall above is my Icarus.
+- ✏️ **Sketching.** Pencil, paper and slow lines.
 
 <p align="center">
   <sub>Currently building an Urdu dyslexia screening tool for my final-year project.</sub>
