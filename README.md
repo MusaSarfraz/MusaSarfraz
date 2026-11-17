@@ -31,12 +31,27 @@
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
+## The book
+
+<table>
+  <tr>
+    <td width="170"><img src="assets/all-this-grief.png" alt="All This Grief, book cover" width="160" /></td>
+    <td>
+      <b><i>All This Grief</i></b><br/><br/>
+      <i>Perhaps to live is to lose a lot.</i><br/><br/>
+      A book I wrote. Poetry and writing are where I put the things I can't put into code.
+    </td>
+  </tr>
+</table>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
 ## Off the keyboard
 
 - 🥊 **Boxing.** The heavy bag keeps my head clear.
-- ✍️ **Poetry and writing.** I wrote a book, *All This Grief*.
+- ✍️ **Poetry and writing.** The words go into my book.
 - 🎹 **Piano.** I play at night.
-- ✏️ **Sketching.** Pencil, paper and slow lines.
+- ✏️ **Sketching.** Pencil, paper and slow lines. The sketch on the wall above is Icarus.
 
 <p align="center">
   <sub>Currently building an Urdu dyslexia screening tool for my final-year project.</sub>
