@@ -59,10 +59,10 @@
 
 ## Off the keyboard
 
-- 🥊 **Boxing.** The heavy bag keeps my head clear.
-- ✍️ **Poetry and writing.** The words go into my book.
-- 🎹 **Piano.** I play at night.
-- ✏️ **Sketching.** Pencil, paper and slow lines.
+- **Boxing.** The heavy bag keeps my head clear.
+- **Poetry and writing.** The words go into my book.
+- **Piano.** I play at night.
+- **Sketching.** Pencil, paper and slow lines.
 
 <p align="center">
   <sub>Currently building an Urdu dyslexia screening tool for my final-year project.</sub>
