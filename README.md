@@ -44,7 +44,7 @@
 ## Stand stats
 
 <p align="center">
-  <img src="assets/stand.svg" alt="Stand: All This Grief. User: Musa Sarfraz. Destructive Power A, Speed B, Range A, Durability A, Precision B, Potential A." width="100%" />
+  <img src="assets/stand.svg" alt="Stand: Za Butt. User: Musa Sarfraz. Python A, FastAPI A, Web Scraping A, SQL and Postgres B, QA and Testing B, AI Agents B." width="100%" />
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
