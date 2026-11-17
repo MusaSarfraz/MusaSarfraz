@@ -41,6 +41,14 @@
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MusaSarfraz&bg_color=0d0907&color=ece0c4&line=b98d2e&point=ece0c4&area=true&area_color=b98d2e&hide_border=true&custom_title=Commits%20by%20candlelight" alt="Contribution activity graph" width="100%" />
+</p>
+
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
+
 ## The book
 
 <table>
@@ -63,7 +71,3 @@
 - **Poetry and writing.** The words go into my book.
 - **Piano.** I play at night.
 - **Sketching.** Pencil, paper and slow lines.
-
-<p align="center">
-  <sub>Currently building an Urdu dyslexia screening tool for my final-year project.</sub>
-</p>
