@@ -6,6 +6,13 @@
 <p align="center"><i>I box. I write. I play. I draw. And I code.</i></p>
 
 <p align="center">
+  <a href="https://musa-portfolio-cs.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1a120b?style=for-the-badge&logo=vercel&logoColor=ece0c4&labelColor=1a120b&color=1a120b" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-musa-sarfraz-b203a8374"><img src="https://img.shields.io/badge/LinkedIn-1a120b?style=for-the-badge&logo=linkedin&logoColor=ece0c4&labelColor=1a120b&color=1a120b" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/musas_draft/"><img src="https://img.shields.io/badge/Drafts-1a120b?style=for-the-badge&logo=instagram&logoColor=ece0c4&labelColor=1a120b&color=1a120b" alt="Drafts" /></a>
+  <a href="https://www.amazon.com/All-This-Grief-MUSA-SARFRAZ-ebook/dp/B0HJLD86QP"><img src="https://img.shields.io/badge/All%20This%20Grief-1a120b?style=for-the-badge&logo=amazon&logoColor=ece0c4&labelColor=1a120b&color=1a120b" alt="All This Grief" /></a>
+</p>
+
+<p align="center">
   I build AI backends with <b>FastAPI</b> and scrape the web for a living.<br/>
   Off the keyboard I box, write poetry, play piano and sketch.<br/>
   I wrote a book called <i>All This Grief</i>.
@@ -42,7 +49,8 @@
     <td>
       <b><i>All This Grief</i></b><br/><br/>
       <i>Perhaps to live is to lose a lot.</i><br/><br/>
-      A book I wrote. Poetry and writing are where I put the things I can't put into code.
+      A book I wrote. Poetry and writing are where I put the things I can't put into code.<br/><br/>
+      <a href="https://www.amazon.com/All-This-Grief-MUSA-SARFRAZ-ebook/dp/B0HJLD86QP">Read it on Amazon</a> · <a href="https://www.instagram.com/musas_draft/">Drafts on Instagram</a>
     </td>
   </tr>
 </table>
