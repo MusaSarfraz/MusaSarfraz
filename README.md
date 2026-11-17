@@ -51,7 +51,7 @@
 - 🥊 **Boxing.** The heavy bag keeps my head clear.
 - ✍️ **Poetry and writing.** The words go into my book.
 - 🎹 **Piano.** I play at night.
-- ✏️ **Sketching.** Pencil, paper and slow lines. The sketch on the wall above is Icarus.
+- ✏️ **Sketching.** Pencil, paper and slow lines. The pixel painting on the wall above is my Icarus.
 
 <p align="center">
   <sub>Currently building an Urdu dyslexia screening tool for my final-year project.</sub>
